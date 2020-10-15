@@ -2,11 +2,15 @@
 
 The Stack Overflow Survey 2020 - https://insights.stackoverflow.com/survey/2020
 
-  * Database section – 1. https://insights.stackoverflow.com/survey/2020#technology-databases-professional-developers4, 2. https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-databases-loved4
+  * Database section – 
+
+ 1. https://insights.stackoverflow.com/survey/2020#technology-databases-professional-developers4,
+
+ 2. https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-databases-loved4
 The Hackerrank Developer Skills Report 2020  - https://research.hackerrank.com/developer-skills/2020, PDF version has been attached.
 
 Fundamentals -
-  * Fundamentals of scaling databases
+  * [Fundamentals of scaling databases](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
   * Sharding - Gaurav Sens video
 
   * ACID - https://www.youtube.com/watch?v=NHKHzwolbKU
