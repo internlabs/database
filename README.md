@@ -2,7 +2,7 @@
 
 The Stack Overflow Survey 2020 - https://insights.stackoverflow.com/survey/2020
 
-  * Database section – 
+  * Database section
 
  1. [Most Used Databases by Professional Developers](https://insights.stackoverflow.com/survey/2020#technology-databases-professional-developers4)
 
@@ -31,4 +31,5 @@ Fundamentals -
   * [Replication](https://youtu.be/fUrKt-AQYtE)
   * [Horizontal vs Vertical Partitioning](https://youtu.be/QA25cMWp9Tk)
 
-A guy from Microsoft has started a series on Amazon Dynamo Research Paper (one of the catalyst of NoSQL movement), gets too technical, but if you are interested here is the [link of the playlist](https://www.youtube.com/watch?v=wbZZftuLs4o&list=PLHNJ91XSF3wy3QZEuedvqxivS_vKyLkoO)
+
+* A guy from Microsoft has started a series on Amazon Dynamo Research Paper (one of the catalyst of NoSQL movement), gets too technical, but if you are interested here is the [link of the playlist](https://www.youtube.com/watch?v=wbZZftuLs4o&list=PLHNJ91XSF3wy3QZEuedvqxivS_vKyLkoO)
