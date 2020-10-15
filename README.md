@@ -33,3 +33,5 @@ Fundamentals -
 
 
 * A guy from Microsoft has started a series on Amazon Dynamo Research Paper (one of the catalyst of NoSQL movement), gets too technical, but if you are interested here is the [link of the playlist](https://www.youtube.com/watch?v=wbZZftuLs4o&list=PLHNJ91XSF3wy3QZEuedvqxivS_vKyLkoO)
+
+Shared by [Ankit Utekar: Intern Labs Mentor](https://www.linkedin.com/in/ankit-utekar-57667589/)
